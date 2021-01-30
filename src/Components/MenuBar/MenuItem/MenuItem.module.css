@@ -1,0 +1,17 @@
+.item {
+    border-radius: 5px;
+}
+
+.item:hover {
+    background-color:violet;
+}
+
+.item a {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    text-decoration: none;
+    text-align: left;
+    color:blue;
+}

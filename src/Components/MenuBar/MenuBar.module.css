@@ -1,0 +1,5 @@
+.menuBar {
+    grid-area: menuBar;
+    background-color:slateblue;
+    padding: 5px 10px;
+}

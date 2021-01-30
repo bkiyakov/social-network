@@ -1,0 +1,15 @@
+.dialog {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    text-decoration: none;
+}
+
+.dialog:hover {
+    background-color: green;
+}
+
+.dialog img {
+    width: 50px;
+    margin: 5px;
+}

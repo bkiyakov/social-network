@@ -1,0 +1,11 @@
+.header {
+    grid-area: header;
+    display: flex;
+    justify-content: start;
+    background-color: green;
+}
+
+.header .logo {
+    margin-left: 10px;
+    height: 40px;
+}

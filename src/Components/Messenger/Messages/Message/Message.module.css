@@ -1,0 +1,11 @@
+.message {
+    width: fit-content;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: greenyellow;
+}
+
+.message p {
+    width: fit-content;
+    margin: 10px;
+}
